@@ -9,7 +9,7 @@ const ACTIONS = {
 }
 
 
-const BASE_URL = '/positions.json'
+const BASE_URL = 'https://cors-anywhere.herokuapp.com/positions.json'
 
 const reducer = (state, action) => {
     switch (action.type) {
