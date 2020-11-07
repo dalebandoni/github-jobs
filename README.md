@@ -19,4 +19,4 @@ npm run dev
 ```
 npm run build
 ```
-**There is no key needed for the API, however you can change the parameters being searched for to tailor your search.**
+**There is no key needed for the API, however you can change the parameters being searched for to tailor your search. [Consult the documentation](https://jobs.github.com/api).**
