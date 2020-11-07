@@ -11,7 +11,7 @@ If you want to run this on your own machine, just clone the repository and then:
 **To run in development mode run**
 
 ```
-npm run dev
+npm start
 ```
 
 **To create a production build folder**
